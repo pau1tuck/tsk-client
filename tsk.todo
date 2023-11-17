@@ -1,0 +1,4 @@
+tsk-client:
+    State management:
+        ☐ Create Redux global store
+        ☐ Wrap application in Redux provider
