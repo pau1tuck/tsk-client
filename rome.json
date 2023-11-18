@@ -21,6 +21,9 @@
             "nursery": {},
             "a11y": {
                 "all": false
+            },
+            "style": {
+                "useNamingConvention": "off"
             }
         }
     }
