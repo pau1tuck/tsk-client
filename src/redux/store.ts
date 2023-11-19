@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import dateTimeReducer from "@/redux/global/datetime.slice";
+import dateTimeReducer from "@/features/datetime/store/datetime.slice";
 import languageSettingsReducer from '@/redux/global/languageSettings.slice';
 
 export const store = configureStore({
